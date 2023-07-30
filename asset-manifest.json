@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Authantication_logic/static/css/main.e90d00b7.css",
+    "main.js": "/Authantication_logic/static/js/main.e8dc1e05.js",
+    "index.html": "/Authantication_logic/index.html",
+    "main.e90d00b7.css.map": "/Authantication_logic/static/css/main.e90d00b7.css.map",
+    "main.e8dc1e05.js.map": "/Authantication_logic/static/js/main.e8dc1e05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e90d00b7.css",
+    "static/js/main.e8dc1e05.js"
+  ]
+}
